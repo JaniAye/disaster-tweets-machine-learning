@@ -14,7 +14,7 @@ This project uses Natural Language Processing (NLP) to classify tweets about dis
 
 1. Clone this repository:
     ```
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/JaniAye/disaster-tweets-machine-learning.git
     ```
 2. Navigate to the project directory:
     ```
