@@ -29,8 +29,13 @@ This project uses Natural Language Processing (NLP) to classify tweets about dis
 
 1. Start the Flask server:
     ```
-    python app.py
-    ```
+    You can run the application using either of the following commands, depending on your system configuration:
+
+     ```bash
+     python app.py
+        or 
+     python3 app.py
+     ```
 2. Open a web browser and navigate to `http://127.0.0.1:5000/`.
 3. Enter a tweet in the text area and click the "Predict" button to classify it.
 
